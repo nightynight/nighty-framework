@@ -1,12 +1,12 @@
 # nighty-framework
 前后端分离框架，分为两个项目，nighty-parent为后端框架，webpack-nighty为前端框架
 
-# 关于后端
+## 关于后端
 后端不用启动，我电脑上启动，你们连我的电脑就行了。
 具体步骤：
 找到前端项目根路径/src/js/AppConstent.js，将BASE_URL中的localhost改为192.168.0.110
 
-# 关于前端
+## 关于前端
 首先需要node环境，具体步骤为：
 1）下载安装nodejs
 node-v7.6.0-x64.msi
