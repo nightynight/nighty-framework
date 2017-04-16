@@ -10,6 +10,6 @@ require('../plugin/jquery.cookie.js');
 require('../plugin/jbase64.js');
 require('../plugin/jquery.jcryption.3.1.0.js');
 require("./common.js");
-require("../constant/AppContant.js");
+require("../constant/AppConstant.js");
 require("./app.js");
 require("./header.js");
